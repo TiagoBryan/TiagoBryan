@@ -1,7 +1,7 @@
 
 <div>
   
-  <h1 align="center" style="border-right: 2px solid black;">
+  <h1 align="center" style="border-right: 2px solid blue;">
     Olá, pessoal, eu sou o Tiago Bryan! [369]
   </h1>
    <div style="margin: auto;" align="center" ">
