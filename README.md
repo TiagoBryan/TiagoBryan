@@ -1,10 +1,29 @@
+<style>
 
+  .typing-animation{
+    animation: blinkcursor 500ms infinite normal;
+    color: blue;
+
+  }
+  @keyframes blinkcursor{
+    from{
+      border-right-color: black;
+    }
+    to{
+      border-right-color:transparent;
+
+    }
+
+  }
+
+
+</style>
 <div>
   
-  <h1 align="center" style="color: blue;">
+  <h1 class="typing-animation" align="center" >
     Olá, pessoal, eu sou o Tiago Bryan! [369]
   </h1>
-   <div style="margin: auto;" align="center" ">
+   <div style="margin: auto;" align="center" >
    <a href="https://github.com/TiagoBryan">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoBryan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBryan&layout=compact&langs_count=6&theme=tokyonight"/>
