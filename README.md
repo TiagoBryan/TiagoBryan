@@ -1,23 +1,4 @@
-<style>
 
-  .typing-animation{
-    animation: blinkcursor 500ms infinite normal;
-    color: blue;
-
-  }
-  @keyframes blinkcursor{
-    from{
-      border-right-color: black;
-    }
-    to{
-      border-right-color:transparent;
-
-    }
-
-  }
-
-
-</style>
 <div>
   
   <h1 class="typing-animation" align="center" >
