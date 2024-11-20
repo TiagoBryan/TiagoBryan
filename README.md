@@ -2,7 +2,7 @@
 <div>
   
   <h1 class="typing-animation" align="center" >
-    Olá, pessoal, eu sou o Tiago Bryan! [369]
+    Hi, guys! I am Tiago Bryan! [369]
   </h1>
    <div style="margin: auto;" align="center" >
    <a href="https://github.com/TiagoBryan">
