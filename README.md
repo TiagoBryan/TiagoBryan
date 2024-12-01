@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <h1>Linguagens</h1>
+  <h1>Languages</h1>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="Html5" alt="Html5" width="50">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="Css3" alt="Css3" width="50">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="50">
@@ -40,7 +40,7 @@
 
 <br>
 <div align="center">
-  <h1>Ferramentas</h1>
+  <h1>Tools</h1>
  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="50"/>
