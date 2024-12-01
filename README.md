@@ -49,6 +49,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="50"/>
 
   <img src="./icons/Fusion.png" title="Fusion" alt="Fusion" width="50"/>
+  <img src="./icons/OpenCV.png" title="OpenCV" alt="OpenCV" width="50"/>
+  <img src="./icons/UML.png" title="UML" alt="UML" width="50"/>
+  <img src="./icons/YOLO.svg" title="YOLO" alt="YOLO" width="50"/>
+  <img src="./icons/tesseract.png" title="tesseract" alt="tesseract" width="50"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="50"/>
